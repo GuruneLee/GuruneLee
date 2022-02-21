@@ -1,4 +1,4 @@
-a# Changha Lee
+# Changha Lee
 
 ## Teck Stack
 > Techs that I've used at least once
