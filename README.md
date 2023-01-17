@@ -1,4 +1,5 @@
 # Changha Lee
+<img src="https://github-readme-stats.vercel.app/api?username=GuruneLee" />
 
 ## Teck Stack
 > Techs that I've used at least once
